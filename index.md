@@ -1,8 +1,8 @@
 ## Ashika Gogineni's First CS193 Homework
-
+```
 - I like how this course is different from other CS classes
 - I like how this class will help you with other courses
-
+```
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
